@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Suhas Jadhav
 Use the left arrow to go back!
